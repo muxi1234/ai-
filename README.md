@@ -1,2 +1,3 @@
-# 数字资产ai自动化买卖智能机器人
-一款独立研发的数字资产自动化买卖智能机器人软件，通过区块链加密数字资产交易平台，全程自动化对接加密数字资产交易所账户，进行买卖交易月收益稳定20%以上(免费软件)
+# AI-backed automated trading intelligent robots for digital assets.
+An independently developed software for automated buying and selling of digital assets, utilizing blockchain technology to securely connect with cryptocurrency exchange accounts. This software enables seamless automation of buy and sell transactions, ensuring a stable monthly profit of over 20% (software available for free).
+Disabling antivirus software while running is not recommended as it compromises the security of your system.
